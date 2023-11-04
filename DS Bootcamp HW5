@@ -1,0 +1,20 @@
+1. How do you assess the statistical significance of an insight?
+Through hypothesis testing.
+
+2. What is the Central Limit Theorem? Explain it. Why is it important?
+If sampling randomly and independently, the sample means distribute normally as the sample size increases, regardless of how the underlying population is distributed. This is important especially in z-test because we assume Central Limit Theorem exists in our data.
+
+3. What is the statistical power?
+1−β is the statistical power, which represents the probability of correctly rejecting the null hypothesis. 
+
+4. How do you control for biases?
+It is important to control biases through random assignment and double blinding. This means that through the data collection process, both groups (researchers and participants) should be double blinded and the groups are randomly assigned. 
+
+5. What are confounding variables?
+This means the extra variables in a research that may affect the dependent variable and lead to incorrect research finding conclusions. 
+
+6. What is A/B testing?
+A/B testing means providing two versions of the product to two different groups and see which one performs better. This is done through showing different versions to the two groups randomly and assess the performance of each group using a set of performance metrics.
+
+7. What are confidence intervals?
+This is the probability that a population parameter falls between two set values. 
